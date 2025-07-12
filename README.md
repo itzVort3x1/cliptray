@@ -165,7 +165,7 @@ Configuration is stored in a JSON file at:
 ## Examples
 
 1. Copy text in another app (e.g., `Ctrl+C` in a browser).
-2. Open tray menu: `Ctrl+Alt+M`.
+2. Open search window: `Ctrl+Alt+V`.
 3. Type a search term (e.g., `error log`) to filter entries.
 4. Press `Enter` or click to re-copy it to your clipboard.
 5. Use `Ctrl+Alt+1` to paste the most recent entry in any application.
