@@ -35,6 +35,13 @@
             "buildResources": "assets",
             "output": "dist"
         },
+        "publish": [
+            {
+                "provider": "github",
+                "owner": "itzVort3x1",
+                "repo": "cliptray"
+            }
+        ],
         "files": [
             "main.js",
             "lib/**/*",
