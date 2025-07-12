@@ -49,8 +49,7 @@ CLI Tray is a lightweight clipboard manager built on Electron and React. It stay
 
   <!-- Replace with actual screenshot paths -->
 
-![Tray UI on Windows](assets/screenshot-windows.png)
-![Tray UI on macOS](assets/screenshot-macos.png)
+![Tray Menu on Linux](assets/linux-tray.png)
 ![Tray UI on Linux](assets/screenshot-linux.png)
 
 </details>

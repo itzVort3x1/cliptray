@@ -58,8 +58,7 @@
         "linux": {
             "icon": "assets/clipboard.png",
             "target": [
-                "deb",
-                "AppImage"
+                "deb"
             ],
             "category": "Utility",
             "maintainer": "Your Name saikaustubh10@gmail.com",
