@@ -201,20 +201,14 @@ We welcome contributions! Please follow these steps:
    ```bash
     git checkout -b feature/my-cool-feature
     ```
-
-4. Code, lint, test, and format:
-    ```bash
-    npm run lint
-    npm test   # if tests added
-    npm run format
-    ```
-5. Rebase regularly onto `upstream/main`:
+   
+4. Rebase regularly onto `upstream/main`:
    ```bash
     git fetch upstream
     git rebase upstream/main
     ```
 
-6. Push your branch and open a PR against `master`.
+5. Push your branch and open a PR against `master`.
 
 Please review our Code of Conduct and Contribution Guidelines before submitting.
 
