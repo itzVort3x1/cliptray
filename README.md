@@ -197,11 +197,10 @@ We welcome contributions! Please follow these steps:
     git remote add upstream https://github.com/<original-owner>/cliptray.git
     ```
 
-````
 3. Create a feature branch:
    ```bash
-git checkout -b feature/my-cool-feature
-````
+    git checkout -b feature/my-cool-feature
+    ```
 
 4. Code, lint, test, and format:
     ```bash
@@ -209,15 +208,13 @@ git checkout -b feature/my-cool-feature
     npm test   # if tests added
     npm run format
     ```
-
-````
 5. Rebase regularly onto `upstream/main`:
    ```bash
-git fetch upstream
-git rebase upstream/main
-````
+    git fetch upstream
+    git rebase upstream/main
+    ```
 
-6. Push your branch and open a PR against `main`.
+6. Push your branch and open a PR against `master`.
 
 Please review our Code of Conduct and Contribution Guidelines before submitting.
 
