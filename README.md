@@ -96,7 +96,7 @@ This runs both the Electron main process and a Webpack watcher for the React UI.
 Bundle assets:
 
 ```bash
-npm run build
+npm run build:react
 # or
 yarn build
 ```
