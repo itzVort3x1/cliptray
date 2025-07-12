@@ -8,8 +8,7 @@
         "build:react": "webpack",
         "pack": "npm run build:react && electron-builder --dir",
         "dist": "npm run build:react && electron-builder",
-        "start": "electron .",
-        "dist:deb": "npm run build:react && electron-builder --linux deb --publish always"
+        "start": "electron ."
     },
     "keywords": [],
     "author": "Sai kaustubh <saikaustubh10@gmail.com>",
