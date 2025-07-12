@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Clipboard Tray</title>
+        <style>
+            body {
+                margin: 0;
+                font-family: sans-serif;
+            }
+            .item {
+                display: flex;
+                justify-content: space-between;
+                padding: 8px;
+                cursor: pointer;
+            }
+            .item:hover {
+                background: #eee;
+            }
+            .txt {
+                flex: 1;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                white-space: nowrap;
+            }
+            .accel {
+                color: #666;
+                padding-left: 8px;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="root"></div>
+        <script src="./bundle.js"></script>
+    </body>
+</html>
